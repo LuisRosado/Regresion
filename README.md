@@ -12,6 +12,5 @@ Para resolver el problema planteado, se utilizaron las siguientes etapas:
 # Resultados
 Los resultados obtenidos se muestran en las figuras adjuntas. Se observa que el grado polinomial tiene un efecto significativo en la calidad del ajuste del modelo. Para el primer conjunto de datos, se puede ver que un grado polinomial mas alto tiende a ajustarse mejor a los datos, mientras que para el segundo conjunto de datos, un grado polinomial intermedio parece ser mas apropiado.
 
-Figura 2: Figura 1.
-
-Figura 3: Figura 2.
+![Figure_1](https://github.com/LuisRosado/Regresion/assets/140114139/27722acd-8ef4-40d9-8f33-e1d8f8ddb4e3)
+![Figure_2](https://github.com/LuisRosado/Regresion/assets/140114139/1da0dbbd-6f84-4091-9e27-7f8b051534b3)
